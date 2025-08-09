@@ -32,7 +32,7 @@
   -webkit-transition: transform 0.3s;
 }
 
-.movie__column-poster :hover {
+.movie__column-poster:hover {
   transform: scale(1.25);
 }
 
